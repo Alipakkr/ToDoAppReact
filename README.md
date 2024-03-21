@@ -26,3 +26,17 @@ ReactCRUD is a powerful web application built using React.js, designed to stream
 - Customization: Tailor the app to fit specific needs by easily extending functionality or customizing the UI.
 
 - Accessibility: Adheres to accessibility standards to ensure inclusivity for all users.
+## ├─ frontend/
+## ├─ backend/
+
+
+## Installation & Getting started
+Detailed instructions on how to install, configure, and get the project running. For BE/FS projects, guide the reviewer how to check mongodb schema etc.
+
+```bash
+npm install 
+cd frontend 
+npm start
+cd src
+npm run start 
+```
