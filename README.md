@@ -1,4 +1,4 @@
-# TODO APP REACT (Krinay Infotech)
+# TODO APP REACT
 
 ## Description:
 ReactCRUD is a powerful web application built using React.js, designed to streamline data management with its intuitive CRUD features. Whether you're managing tasks, contacts, projects, or any other type of data, ReactCRUD offers a seamless user experience for adding, viewing, updating, and deleting entries.
