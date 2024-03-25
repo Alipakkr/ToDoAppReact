@@ -40,13 +40,12 @@ npm start
 cd src
 npm run start 
 ```
+
 ## Technology Stack
 - JavaScript
 - React
 - Git
 - CSS 
-
-
 
  ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
@@ -83,7 +82,6 @@ You don't have to ever use eject. The curated feature set is suitable for small 
 
  ## Learn More
 You can learn more in the Create React App documentation.
-
 To learn React, check out the React documentation.
 
  ## Code Splitting
@@ -101,8 +99,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 ## Deployment
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-npm run build fails to minify
+## npm run build fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 ###  Made By Alipa 
 [![profile](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Alipakkr)
 
